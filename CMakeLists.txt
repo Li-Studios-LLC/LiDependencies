@@ -14,6 +14,6 @@ endif()
 file(GLOB_RECURSE SRCS src/*.cpp src/*.c)
 file(GLOB_RECURSE HDRS src/*.h)
 
-add_library(LiDependencies SHARED)
+add_library(LiDependencies STATIC)
 target_sources(LiDependencies PRIVATE ${SRCS} ${HDRS})
 target_include_directories(LiDependencies PUBLIC ${PROJECT_SOURCE_DIR}/Include)
