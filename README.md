@@ -7,3 +7,9 @@
 Only contains the Windows x64 binaries.
 
 ### stb headers
+
+## glad (OpenGL/Vulkan Loader)
+
+## cglm
+
+## OpenAL
