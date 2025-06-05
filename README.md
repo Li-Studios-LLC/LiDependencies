@@ -7,3 +7,5 @@ Only contains the Windows x64 binaries.
 ## glad
 ## cglm
 ## OpenAL
+## shaderc
+## Vulkan Memory Allocator
