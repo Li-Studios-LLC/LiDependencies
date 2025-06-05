@@ -5,6 +5,7 @@
 Only contains the Windows x64 binaries.
 ### stb headers
 ## glad
+## volk
 ## cglm
 ## OpenAL
 ## shaderc
